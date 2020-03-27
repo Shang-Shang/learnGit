@@ -5,5 +5,5 @@ I decided to change this file in another way.
 
 Git has a mutable index called stage.
 
-Git tracks all kinds of changes of files.
+Creating a new branch is quick & simple.
 
